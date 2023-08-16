@@ -30,7 +30,7 @@ $config = [
         'view' => [
             'theme' => [
                 'pathMap' => [
-                    // '@app/views' => '@app/themes/canvas',
+                    '@app/views' => '@app/themes/sample',
                     '@dektrium/user/views' => '@app/themes/stisla/user',
                 ],
             ],
